@@ -1,0 +1,16 @@
+h1{font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+color: royalblue;
+font-size: 35px;}
+h2{font-size: 65px;
+    color:rgb(204, 156, 113);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h3{font-size: 20px;
+color: rgb(14, 7, 6);font-style: italic;
+font-weight: 200;
+font-family: cursive;}
+header{background-color: #dddbd8;}
+body{background-color:rgb(166, 194, 175);}
+main{text-align: center;
+font-size: 40px;
+font-style: italic;}
