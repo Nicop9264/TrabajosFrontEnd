@@ -1,0 +1,13 @@
+body{font-family: 'Roboto', sans-serif;font-weight:lighter;background-color:rgba(24, 219, 102,0.6)}
+header{background-image: url('./Img/fondo.jpg');color: black;}
+#navegador{text-align: center;}
+#banner{text-align: center;}
+
+h1{text-align: center;color:black;}
+main{max-width: 50%;color:black;
+margin-top: 50px;
+margin-left: 500px;
+margin-bottom: 500px;
+margin-right: 50px;}
+footer{text-align: center;}
+
