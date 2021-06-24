@@ -25,6 +25,8 @@ font-size: 40px;
 line-height: 47px;
 font-weight: 400;}
 
+main{max-width: 80%;
+margin-left: 20%;}
 
 .hola{display: inline-block;
     margin-top: 152px;
