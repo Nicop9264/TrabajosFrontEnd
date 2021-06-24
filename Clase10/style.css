@@ -1,39 +1,59 @@
 *{font-family: 'Roboto';
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;}
+box-sizing: border-box;
+margin: 0;
+padding: 0;}
+
+
 header{background-color: rgba(34, 34, 34, 1);
 color: rgba(243, 243, 243, 1);
 display: flex;
 align-content: center;
 flex-wrap: wrap;
-justify-content: space-between;}
-header a{color: rgba(243, 243, 243, 1);}
+justify-content: space-between;
+padding: 15px;}
+
+
+header a{color: rgba(243, 243, 243, 1);
+padding: 20px;}
+
+
 #Logo{font-size: 24px;
-    display: flex;
+display: flex;
 align-content: space-between;
 align-items: center;}
+
+
 #pi{color: green;}
+
 #Front{color: red;}
+
 #Nav{display: flex;
-flex-direction:row;}
+flex-direction:row;
+align-items: center;
+justify-content: center;}
+
 
 main{display: flex;
-    justify-content: space-around;
+justify-content: space-around;
 max-width: 50%;}
+
+
 h2{color: red;
 font-size: 24px;
 font-style: normal;
 font-weight: bold;
 text-align: center;}
+
 #comprando{color: white;}
 
 
 #delivery{background-image:url(./Img/delivery.jpg);
-   max-width: 490px;
+max-width: 490px;
 height: 350px;
 padding: 15px;
 margin: 35px 15px;}
+
+
 #pizzas{max-width: 491px;
 max-width: 350px;
 padding: 15px;
