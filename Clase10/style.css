@@ -16,8 +16,32 @@ align-items: center;}
 #pi{color: green;}
 #Front{color: red;}
 #Nav{display: flex;
-flex-direction: row;}
-#Nav a{justify-content: center;}
+flex-direction:row;}
+
+main{display: flex;
+    justify-content: space-around;
+max-width: 50%;}
+h2{color: red;
+font-size: 24px;
+font-style: normal;
+font-weight: bold;
+text-align: center;}
+#comprando{color: white;}
+
+
+#delivery{background-image:url(./Img/delivery.jpg);
+   max-width: 490px;
+height: 350px;
+padding: 15px;
+margin: 35px 15px;}
+#pizzas{max-width: 491px;
+max-width: 350px;
+padding: 15px;
+margin: 35px 15px;
+display: flex;
+;align-content: space-around;}
+
+
 
 
 
