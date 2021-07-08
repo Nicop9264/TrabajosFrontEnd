@@ -13,7 +13,8 @@ padding: 10px;}
 header{background-color:rgba(0, 102, 159, 1);
 height: 101px;
 position: relative;
-position: sticky;top: 10px;
+position: sticky;
+top: 10px;
 z-index: 20;}
 
 
@@ -28,7 +29,7 @@ font-weight: 400;}
 main{max-width: 80%;
 margin-left: 20%;}
 
-.hola{display: inline-block;
+.tarjeta{display: inline-block;
     margin-top: 152px;
     margin-left: 32px;
     margin-bottom: 153px;
@@ -47,7 +48,7 @@ margin-left: 20%;}
     top: 128px;
     right: 90px;
     left: 90px;bottom: 20px;
-    z-index: 20;
+    z-index: 10;
     border-radius: 50%;}
 
 
